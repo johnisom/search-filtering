@@ -6,5 +6,5 @@ categories.
 ## Example Usage ##
 
 <p align="center">
-  <img alt="Screencast of app" src="example.jpg">
+  <img alt="Screencast of app" src="example.gif">
 </p>
